@@ -1,10 +1,10 @@
-# Algorithms
+# Algorithms 101
 
-Welcome to the Algorithms repository! This project aims to provide clear explanations and implementations of various algorithms and data structures.
+Welcome to my personal Algorithms repository! This project aims to provide clear explanations and implementations of various algorithms and data structures.
 
 ## Table of Contents
 
-- [Algorithms](#algorithms)
+- [Algorithms 101](#algorithms-101)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Categories](#categories)
